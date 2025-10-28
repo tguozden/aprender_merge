@@ -13,4 +13,4 @@ cuarto cambio en la copia
 
 línea editada con vim para su uso
 línea editada con el tool de vscode para su uso
-una mas
+una más
