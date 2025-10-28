@@ -12,3 +12,4 @@ tercer cambio en la copia:wq
 cuarto cambio en la copia
 
 línea editada con vim para su uso
+otra línea
